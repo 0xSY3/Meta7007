@@ -1,0 +1,8 @@
+{
+    "name": "forge-std",
+    "version": "1.0.0",
+    "description": "Forge Standard Library",
+    "files": [
+        "src/**/*.sol"
+    ]
+}
